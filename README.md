@@ -4,3 +4,6 @@
 ## atividade ICE CREAM
 <img width="1025" height="832" alt="image" src="https://github.com/user-attachments/assets/1b91b9c1-6611-4330-8b96-dee68bbc1e1f" />
 
+## atividade RESTAURANTE
+<img width="1863" height="765" alt="image" src="https://github.com/user-attachments/assets/6c0b952c-6888-4a27-811c-7fb9b345a5dd" />
+
