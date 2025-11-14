@@ -7,3 +7,5 @@
 ## atividade RESTAURANTE
 <img width="1863" height="765" alt="image" src="https://github.com/user-attachments/assets/6c0b952c-6888-4a27-811c-7fb9b345a5dd" />
 
+## atividade SALARIO
+<img width="1343" height="818" alt="image" src="https://github.com/user-attachments/assets/01fe16a5-abda-4957-9e2c-31e7fd0c5574" />
