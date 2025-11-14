@@ -9,3 +9,6 @@
 
 ## atividade SALARIO
 <img width="1343" height="818" alt="image" src="https://github.com/user-attachments/assets/01fe16a5-abda-4957-9e2c-31e7fd0c5574" />
+
+## atividade POWER BI
+<img width="1147" height="732" alt="image" src="https://github.com/user-attachments/assets/cc4598fb-3d5a-4f50-971f-3a8737cf0bec" />
