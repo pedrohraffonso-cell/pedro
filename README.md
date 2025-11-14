@@ -8,7 +8,7 @@
 <img width="1815" height="748" alt="image" src="https://github.com/user-attachments/assets/bb7857ff-a780-45c6-9d10-b1f39b75ea4a" />
 
 ## Atividade POWER BI
-<img width="1147" height="732" alt="image" src="https://github.com/user-attachments/assets/cc4598fb-3d5a-4f50-971f-3a8737cf0bec" />
+<img width="1423" height="805" alt="image" src="https://github.com/user-attachments/assets/188c26a7-25ff-4ec4-9cc1-8a2d6d87c752" />
 
 ## Atividade POWER BI
 <img width="1270" height="731" alt="image" src="https://github.com/user-attachments/assets/09bc2f79-0e53-4142-8c70-577342e2f56e" />
